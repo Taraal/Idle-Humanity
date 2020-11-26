@@ -1361,7 +1361,7 @@ MonoBehaviour:
   productionUpgrade1Text: {fileID: 1324366324}
   productionUpgrade1Level: 0
   productionUpgrade1Cost: 0
-  productionUpgrade2Text: {fileID: 0}
+  productionUpgrade2Text: {fileID: 1001231440}
   productionUpgrade2Level: 0
   productionUpgrade2Cost: 0
   productionUpgrade2Power: 0
